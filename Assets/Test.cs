@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+ 
 
 public class Boss {
 
@@ -32,7 +33,7 @@ public class Test : MonoBehaviour {
 			lastboss.magic ();
 		}
 	}
-		
+
 	// Update is called once per frame
 	void Update () {
 
